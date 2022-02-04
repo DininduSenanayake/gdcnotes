@@ -2,7 +2,7 @@
 
 set -e
 
-#Loading the software stack for DataWrangling episode
+#Loading the software stack for DataWrangling episode. This is specific to NeSI Mahuika platform
 source ~/modload.sh
 
 cd ~/dc_workshop/data/untrimmed_fastq
