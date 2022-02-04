@@ -1,5 +1,8 @@
+#Run FastQC
+
 set -e
 
+#Loading the software stack for DataWrangling episode
 source ~/modload.sh
 
 cd ~/dc_workshop/data/untrimmed_fastq
